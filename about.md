@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quienes somos
-permalink: /About/
+permalink: /about/
 ---
 
 Somos un equipo de personas que quieren que Yucatan destaque y sorprenda al mundo por nuestra hospitalidad, amabilidad, cultura, gastronomia, sitios arquelogicos, cenotes, tu nombralo, tenemos de todo. Por lo que con una plataforma que permita a las personas poner sus hoteles, casas, o cuartos desocupados disponibles al mundo, enriqueciendonos individualemente y en conjunto.
